@@ -31,12 +31,14 @@ Hello! This is a fun, interactive web application for analyzing stock correlatio
    cd stock-analytics-dashboard
 
 2. Install packages:
-    pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-3. Run Flask app
-    python app.py
+4. Run Flask app
+   ```bash
+   python app.py
 
-4. Open your browser at [text](http://127.0.0.1:5000)
+5. Open your browser at [text](http://127.0.0.1:5000)
 
 ### Usage
 - Enter stock tickers only separated by commas (ex:AAPL,GOOG,NVDA)
