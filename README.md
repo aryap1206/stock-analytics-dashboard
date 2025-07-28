@@ -1,6 +1,6 @@
 # Stock Analytics Dashboard
 
-Hello! This is an fun, interactive web application for analyzing stock correlations, beta coefficients, and historical price charts. This is built with a Python Flask backend and a JavaScript frontend using Chart.js for visualizations.
+Hello! This is a fun, interactive web application for analyzing stock correlations, beta coefficients, and historical price charts. This is built with a Python Flask backend and a JavaScript frontend using Chart.js for visualizations.
 
 ## Features
 
