@@ -27,7 +27,7 @@ Hello! This is a fun, interactive web application for analyzing stock correlatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-analytics-dashboard.git
+   git clone https://github.com/aryap1206/stock-analytics-dashboard.git
    cd stock-analytics-dashboard
 
 2. Install packages:
@@ -45,3 +45,4 @@ Hello! This is a fun, interactive web application for analyzing stock correlatio
 - View the heatmap displaying correlations based on 6 months of data
 - Analyze beta coefficients representing volatity of entered stocks
 - Select stock from dropdown to view an interactive 6 month price chart with daily prices
+
